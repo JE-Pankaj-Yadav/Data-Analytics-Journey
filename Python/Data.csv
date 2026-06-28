@@ -1,10 +1,10 @@
 ﻿Customer ID,Customer Name,Gender,Age,Region,Job Classification,Date Joined,Balance
-100001307,Dorothy Jackson,Female,31,England,White Collar,22-07-2020,183467.7
-100003450,Carl Fraser,Male,35,England,White Collar,30-11-2020,181680.99
+100001307,,Female,31,England,Job Classification,22-07-2020,183467.7
+100003450,Carl Fraser,Male,35,England,,30-11-2020,
 200002010,Connor North,Male,50,Scotland,Other,11-09-2020,172085.48
-100003832,Sebastian Arnold,Male,44,England,Blue Collar,20-12-2020,161517.82
+100003832,Sebastian Arnold,Male,44,England,Blue Collar,20-12-2020,
 400000914,Anna Randall,Female,25,Northern Ireland,Blue Collar,18-06-2020,149698.12
-100001823,Natalie Paige,Female,34,England,White Collar,28-08-2020,149684.4
+100001823,Natalie Paige,Female,34,England,White Collar,28-08-2020,
 100003108,David Metcalfe,Male,27,England,White Collar,11-11-2020,146892.37
 400000639,Peter Miller,Male,28,Northern Ireland,White Collar,22-05-2020,146569.77
 300000524,Brandon Clark,Male,31,Wales,White Collar,16-05-2020,145995.97
@@ -18,17 +18,17 @@
 100003991,Sue Cornish,Female,30,England,White Collar,29-12-2020,139784.01
 200002025,Dan Forsyth,Male,58,Scotland,White Collar,12-09-2020,139610.13
 200002634,Paul Sanderson,Male,57,Scotland,Other,15-10-2020,139509.54
-100003226,Dylan Mitchell,Male,39,England,White Collar,17-11-2020,139434.09
+100003226,,Male,39,England,White Collar,,139434.09
 200002353,Leonard Lyman,Male,64,Scotland,Blue Collar,28-09-2020,139415.88
 100002438,Grace Hardacre,Female,30,England,White Collar,03-10-2020,138086.22
 100003786,Gavin Hart,Male,35,England,White Collar,17-12-2020,137981.62
 200000764,Carl Arnold,Male,48,Scotland,Other,31-05-2020,137330.94
 100000120,Andrea Dickens,Female,31,England,White Collar,31-03-2020,136370.38
 300002539,Julian Mackay,Male,35,Wales,Other,09-10-2020,136365.52
-100003500,Peter Mackay,Male,29,England,White Collar,03-12-2020,135545.59
+100003500,,Male,29,England,White Collar,03-12-2020,135545.59
 100002367,Ryan Mackenzie,Male,34,England,Blue Collar,29-09-2020,135158.19
-300001034,Julian Carr,Male,35,Wales,Blue Collar,29-06-2020,134324.66
-300003201,Bernadette Reid,Female,26,Wales,White Collar,15-11-2020,133683.93
+300001034,Julian Carr,Male,35,,Blue Collar,29-06-2020,134324.66
+,,,,,,,
 100003501,Alan Wright,Male,34,England,Other,03-12-2020,133630.5
 100003094,Andrea Alsop,Female,23,England,White Collar,10-11-2020,133589.87
 400002618,Alison McGrath,Female,28,Northern Ireland,Other,14-10-2020,133050.09
@@ -36,12 +36,12 @@
 100002082,Justin Young,Male,32,England,White Collar,16-09-2020,132536.87
 200000463,Paul Reid,Male,46,Scotland,Blue Collar,12-05-2020,131848.63
 100001635,Lauren Manning,Female,34,England,White Collar,15-08-2020,131464.91
-100000838,Felicity MacLeod,Female,25,England,White Collar,10-06-2020,130797.71
+100000838,Felicity MacLeod,Female,25,England,White Collar,,130797.71
 100001960,Olivia Harris,Female,31,England,White Collar,08-09-2020,130717.22
 300002728,Warren Hill,Male,47,Wales,Blue Collar,21-10-2020,128488.01
 200002601,Jake McGrath,Male,58,Scotland,Blue Collar,13-10-2020,128259.93
 200000493,Jacob Forsyth,Male,49,Scotland,Blue Collar,14-05-2020,127883.17
-200000630,Sam Powell,Male,51,Scotland,Blue Collar,22-05-2020,126331.75
+200000630,,Male,51,,Blue Collar,22-05-2020,126331.75
 100000578,Nathan Davidson,Male,33,England,Blue Collar,19-05-2020,126150.99
 100002809,Stephen Welch,Male,34,England,Blue Collar,26-10-2020,125975.42
 100003715,Molly Young,Female,36,England,White Collar,14-12-2020,125690.43
@@ -49,10 +49,10 @@
 100001460,Rose Morrison,Female,34,England,White Collar,31-07-2020,125101.37
 100001309,Colin Hamilton,Male,35,England,White Collar,22-07-2020,125015.82
 200001573,Adam Campbell,Male,31,Scotland,White Collar,10-08-2020,124232.17
-100001316,Simon Rutherford,Male,25,England,White Collar,22-07-2020,123865.36
+100001316,,Male,25,England,White Collar,22-07-2020,123865.36
 100003658,Ruth MacDonald,Female,35,England,White Collar,11-12-2020,123357.17
-100003660,Jason Coleman,Male,24,England,Blue Collar,11-12-2020,123346.44
-100002390,Penelope Dowd,Female,45,England,White Collar,30-09-2020,123159.76
+100003660,Jason Coleman,Male,24,England,Blue Collar,,123346.44
+100002390,Penelope Dowd,Female,45,,White Collar,30-09-2020,123159.76
 100000303,Brian Russell,Male,42,England,Blue Collar,24-04-2020,122903.78
 300000006,Ava Coleman,Female,30,Wales,Blue Collar,09-01-2020,122443.77
 100003960,Michael Poole,Male,33,England,White Collar,27-12-2020,122294.27
@@ -70,10 +70,10 @@
 200000101,Stewart Lewis,Male,51,Scotland,Blue Collar,16-03-2020,119014.87
 400003848,Carolyn Dowd,Female,52,Northern Ireland,Other,20-12-2020,118676.95
 100002542,William Arnold,Male,37,England,White Collar,10-10-2020,118379.33
-100002888,Carolyn Ferguson,Female,39,England,White Collar,29-10-2020,118110.62
+100002888,Carolyn Ferguson,Female,39,England,White Collar,29-10-2020,
 100003949,Harry Poole,Male,23,England,White Collar,26-12-2020,117946.76
-300002297,Jasmine Rees,Female,30,Wales,White Collar,25-09-2020,117809.44
-400002151,Adam Skinner,Male,37,Northern Ireland,White Collar,19-09-2020,117089.6
+300002297,,Female,30,Wales,White Collar,25-09-2020,117809.44
+400002151,Adam Skinner,Male,37,,White Collar,19-09-2020,117089.6
 100003761,Kevin Hunter,Male,33,England,White Collar,16-12-2020,116577.61
 100002306,Luke Lyman,Male,31,England,White Collar,26-09-2020,116522.47
 300003006,Claire Scott,Female,34,Wales,White Collar,03-11-2020,116366.09
@@ -92,22 +92,22 @@
 100003589,Andrea Short,Female,40,England,Blue Collar,07-12-2020,114118.53
 100001124,Owen Forsyth,Male,35,England,White Collar,08-07-2020,114115.93
 200003772,Leonard Miller,Male,53,Scotland,Blue Collar,16-12-2020,114059.89
-200000043,Jake Morgan,Male,49,Scotland,Blue Collar,01-02-2020,114021.21
-100002912,Elizabeth Parsons,Female,31,England,White Collar,30-10-2020,113868.94
-100000001,Simon Walsh,Male,21,England,White Collar,05-01-2020,113810.15
+200000043,,,49,Scotland,Blue Collar,01-02-2020,114021.21
+,,,,,,,
+,,,,,,,
 100002137,Amy Lawrence,Female,21,England,Blue Collar,19-09-2020,113673.32
 100001719,Madeleine Quinn,Female,30,England,Blue Collar,23-08-2020,113533.08
 200001585,Dylan Young,Male,42,Scotland,Other,11-08-2020,112917.42
 100002386,Andrea Hudson,Female,46,England,White Collar,30-09-2020,112571.21
 300001642,Keith Fisher,Male,41,Wales,White Collar,16-08-2020,112243.76
 100003455,Julia Mills,Female,39,England,White Collar,30-11-2020,112000.36
-200001995,Phil Peters,Male,45,Scotland,Blue Collar,10-09-2020,111961.53
+200001995,,,,,,10-09-2020,111961.53
 100000274,Rose Russell,Female,34,England,Other,18-04-2020,111818.28
 100001270,Andrew Campbell,Male,34,England,Other,19-07-2020,111798.34
 100001806,Justin Wilson,Male,35,England,Other,27-08-2020,111412.09
-100002497,Yvonne Parsons,Female,36,England,White Collar,07-10-2020,111371.69
-100000124,John Black,Male,39,England,Other,01-04-2020,111149.47
-200003176,Max Short,Male,52,Scotland,Other,14-11-2020,111036.92
+100002497,Yvonne Parsons,Female,36,,,,
+100000124,John Black,Male,39,,,,
+,,,,,,,111036.92
 300001338,Charles Simpson,Male,44,Wales,White Collar,22-07-2020,110880.94
 200000623,Brian Mitchell,Male,53,Scotland,Other,21-05-2020,110688.19
 200002125,Tracey Greene,Female,62,Scotland,Other,18-09-2020,110171.27
@@ -125,8 +125,8 @@
 100001889,Molly Hunter,Female,34,England,White Collar,02-09-2020,107351.49
 100000443,Justin Hodges,Male,27,England,White Collar,11-05-2020,107287.71
 100002339,Deirdre May,Female,31,England,Other,28-09-2020,107268.59
-200000362,Joshua Underwood,Male,52,Scotland,White Collar,04-05-2020,107185.54
-100001887,Liam Glover,Male,40,England,White Collar,02-09-2020,107130.48
+200000362,,,,,,,107185.54
+100001887,,,,,,,107130.48
 100002286,Wanda Mackenzie,Female,28,England,White Collar,25-09-2020,107083.15
 100001224,Sophie Avery,Female,28,England,Other,15-07-2020,106947.88
 400001467,Ryan Poole,Male,23,Northern Ireland,Blue Collar,31-07-2020,106836
@@ -135,8 +135,8 @@
 100002132,Penelope Bailey,Female,30,England,White Collar,19-09-2020,106490.28
 100002813,Bella Hart,Female,39,England,Blue Collar,26-10-2020,106334.38
 200003055,Dan Morrison,Male,36,Scotland,Blue Collar,07-11-2020,106275.73
-200002695,Tim Piper,Male,57,Scotland,Blue Collar,19-10-2020,106232.34
-200002902,Adam Butler,Male,38,Scotland,Blue Collar,29-10-2020,106227.27
+200002695,,,,,,,
+200002902,,,,,,,
 100000227,Connor Gill,Male,29,England,Other,15-04-2020,106172.13
 100002307,Nicola Gray,Female,43,England,White Collar,26-09-2020,106071.02
 100001958,Heather Slater,Female,41,England,Blue Collar,08-09-2020,105902.66
@@ -147,11 +147,11 @@
 200001273,Luke Lambert,Male,61,Scotland,Other,19-07-2020,105354.02
 100003276,Gabrielle Jones,Female,39,England,White Collar,21-11-2020,105339.9
 200000947,Katherine Ball,Female,56,Scotland,Other,20-06-2020,105138.65
-200003126,Andrea Marshall,Female,58,Scotland,Other,11-11-2020,105104.49
-100002816,Andrew Fisher,Male,26,England,White Collar,26-10-2020,105093.23
-100002619,Kimberly Parr,Female,35,England,Other,15-10-2020,104867.33
-300003707,Dominic McLean,Male,35,Wales,Other,13-12-2020,104813.21
-200001561,Adam Coleman,Male,52,Scotland,Blue Collar,09-08-2020,104693.27
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
 300001779,Yvonne Brown,Female,37,Wales,White Collar,25-08-2020,104416.12
 100003235,Blake Simpson,Male,26,England,White Collar,17-11-2020,104366.63
 100001706,Simon Burgess,Male,43,England,White Collar,22-08-2020,104169.39
@@ -161,42 +161,42 @@
 300003480,Piers Wright,Male,44,Wales,White Collar,01-12-2020,103404.37
 100002503,Alexander Welch,Male,28,England,Blue Collar,08-10-2020,102952.98
 200001692,Christopher Wilkins,Male,58,Scotland,Blue Collar,21-08-2020,102552.12
-200002836,Sam Ferguson,Male,60,Scotland,Blue Collar,26-10-2020,102409.29
+200002836,Sam Ferguson,Male,60,,Blue Collar,26-10-2020,102409.29
 200001136,Sue Pullman,Female,38,Scotland,Other,09-07-2020,102268.43
 100002659,Grace Wallace,Female,45,England,White Collar,17-10-2020,101994.01
 100002890,Phil Kerr,Male,31,England,White Collar,29-10-2020,101731.87
 100000475,Kevin James,Male,37,England,White Collar,13-05-2020,101697.71
-100002801,Jennifer Peters,Female,30,England,White Collar,26-10-2020,101676.32
+100002801,,Female,30,England,,26-10-2020,101676.32
 200002943,Jake Poole,Male,44,Scotland,Blue Collar,31-10-2020,101645.25
 100000003,Liam Brown,Male,46,England,White Collar,07-01-2020,101536.83
 300003864,Bernadette Hughes,Female,37,Wales,Blue Collar,21-12-2020,101532.72
 200003793,Sophie Glover,Female,55,Scotland,Other,17-12-2020,100995.05
 300002380,Claire James,Female,39,Wales,White Collar,29-09-2020,100130.71
-200001905,Joan Slater,Female,59,Scotland,Other,03-09-2020,99970.31
-100002461,Robert Walker,Male,34,England,White Collar,04-10-2020,99934.82
+200001905,Joan Slater,Female,59,,Other,,
+100002461,Robert Walker,,34,England,White Collar,04-10-2020,99934.82
 100000181,Mary Watson,Female,32,England,White Collar,07-04-2020,99806.54
-200001423,Chloe Oliver,Female,50,Scotland,Other,28-07-2020,99770.73
+200001423,,Female,50,Scotland,Other,28-07-2020,99770.73
 100003876,Trevor Watson,Male,26,England,Other,23-12-2020,99642.13
 200001866,Jason Rees,Male,40,Scotland,Blue Collar,31-08-2020,99604.38
-300002189,Abigail Wright,Female,29,Wales,White Collar,22-09-2020,99557.72
+300002189,Abigail Wright,Female,29,Wales,,22-09-2020,99557.72
 300002568,Boris Chapman,Male,27,Wales,White Collar,11-10-2020,99502.56
 200003341,Blake Morrison,Male,46,Scotland,Blue Collar,24-11-2020,99396.23
 300001216,Emily Knox,Female,29,Wales,White Collar,14-07-2020,99271.98
-200003289,Ryan Underwood,Male,50,Scotland,Other,21-11-2020,99255.19
+200003289,,Male,50,Scotland,Other,21-11-2020,99255.19
 200000301,Joseph Robertson,Male,41,Scotland,Blue Collar,23-04-2020,99190.79
 100002935,Felicity Lambert,Female,36,England,White Collar,31-10-2020,98682.44
 300000592,Diana Martin,Female,27,Wales,White Collar,19-05-2020,98541.75
 100001757,Cameron Arnold,Male,20,England,White Collar,24-08-2020,98261.13
 100003454,Felicity James,Female,32,England,White Collar,30-11-2020,98044.81
-100002053,Brandon Springer,Male,38,England,White Collar,14-09-2020,98022.86
+100002053,Brandon Springer,Male,38,England,White Collar,,98022.86
 300001840,Anne Hardacre,Female,34,Wales,White Collar,29-08-2020,97934.55
 100003457,Anna Mathis,Female,24,England,White Collar,30-11-2020,97846.35
 100002806,Caroline Rampling,Female,37,England,White Collar,26-10-2020,97665.32
-200003138,Gordon Clarkson,Male,41,Scotland,Blue Collar,12-11-2020,97626.31
-400001671,Bernadette Metcalfe,Female,17,Northern Ireland,Blue Collar,19-08-2020,97610.35
+200003138,,Male,,,,12-11-2020,
+400001671,Bernadette Metcalfe,Female,17,Northern Ireland,Blue Collar,,97610.35
 200002027,Heather Smith,Female,52,Scotland,Blue Collar,12-09-2020,97609.31
 100000772,Alexander Anderson,Male,32,England,White Collar,01-06-2020,97377.64
-300003188,Frank Peake,Male,47,Wales,Blue Collar,14-11-2020,97201.55
+300003188,,,47,,,14-11-2020,97201.55
 200003401,Angela Butler,Female,47,Scotland,Other,27-11-2020,97165.43
 300000411,Edward Dowd,Male,38,Wales,White Collar,07-05-2020,97120.48
 100003095,Oliver Campbell,Male,34,England,White Collar,10-11-2020,96893.79
@@ -205,12 +205,12 @@
 200000610,Ian Walsh,Male,52,Scotland,Blue Collar,20-05-2020,96808.76
 100001821,Sonia Henderson,Female,29,England,White Collar,28-08-2020,96673.11
 100001853,Jason Lewis,Male,33,England,White Collar,30-08-2020,96422.41
-400000780,Victor Quinn,Male,31,Northern Ireland,Blue Collar,01-06-2020,96409.06
+400000780,,Male,31,Northern Ireland,Blue Collar,01-06-2020,96409.06
 200002536,Victor Black,Male,54,Scotland,Blue Collar,09-10-2020,96381.84
 100001107,Sam Rutherford,Male,33,England,White Collar,07-07-2020,96379.13
-200002516,Dominic Sanderson,Male,54,Scotland,Blue Collar,08-10-2020,96359.91
+200002516,,Male,54,Scotland,Blue Collar,08-10-2020,96359.91
 100000286,Ruth Lambert,Female,31,England,Other,21-04-2020,96203.49
-100002283,Andrea Burgess,Female,38,England,White Collar,25-09-2020,96144.95
+100002283,Andrea Burgess,Female,38,,White Collar,25-09-2020,96144.95
 100001603,James Underwood,Male,42,England,White Collar,13-08-2020,96088.41
 400000690,Bernadette Duncan,Female,42,Northern Ireland,Other,26-05-2020,96028.9
 300002031,Piers Piper,Male,22,Wales,White Collar,12-09-2020,96018.25
@@ -222,43 +222,43 @@
 300000374,John Underwood,Male,19,Wales,Blue Collar,05-05-2020,94786.37
 200002103,Jacob Watson,Male,46,Scotland,Other,17-09-2020,94781.97
 300003657,Emily Miller,Female,38,Wales,Other,10-12-2020,94773.07
-300001978,Adrian Ince,Male,28,Wales,White Collar,09-09-2020,94767.31
+300001978,,Male,28,Wales,White Collar,09-09-2020,94767.31
 100001554,Dominic Howard,Male,34,England,White Collar,09-08-2020,94732.96
-300002520,Amanda Bell,Female,44,Wales,White Collar,08-10-2020,94722.42
+300002520,Amanda Bell,Female,44,Wales,,08-10-2020,94722.42
 200002579,Isaac Wright,Male,46,Scotland,Blue Collar,12-10-2020,94688.11
 300001589,Liam Jackson,Male,37,Wales,Blue Collar,11-08-2020,94647.65
 300003265,Joshua Parsons,Male,29,Wales,White Collar,19-11-2020,94523.22
 100003279,Steven North,Male,36,England,Other,21-11-2020,94494.62
 100001514,Joanne Davidson,Female,30,England,Blue Collar,05-08-2020,94490.55
 100000627,Brian Slater,Male,44,England,White Collar,22-05-2020,94471.86
-100001177,Christopher Bell,Male,28,England,White Collar,12-07-2020,94339.78
+100001177,Christopher Bell,Male,28,England,,12-07-2020,94339.78
 200003953,Alexandra Young,Female,52,Scotland,Other,26-12-2020,94197.01
-100003866,Sally Campbell,Female,38,England,Blue Collar,22-12-2020,94159.68
+100003866,Sally Campbell,Female,38,England,Blue Collar,,
 100002663,Charles Watson,Male,46,England,White Collar,17-10-2020,94033.87
 100002036,Joanne Terry,Female,37,England,Other,13-09-2020,93845.6
 400000916,Matt Grant,Male,35,Northern Ireland,White Collar,18-06-2020,93787.01
 100003446,Faith Glover,Female,18,England,White Collar,30-11-2020,93603.84
-200001202,Jonathan Dowd,Male,52,Scotland,Blue Collar,13-07-2020,93586.64
-400000721,James Dowd,Male,33,Northern Ireland,White Collar,28-05-2020,93525.03
-200002294,William Morrison,Male,41,Scotland,Blue Collar,25-09-2020,93395.64
+200001202,Jonathan Dowd,Male,52,Scotland,Blue Collar,13-07-2020,
+400000721,James Dowd,Male,,Northern Ireland,White Collar,28-05-2020,93525.03
+200002294,,Male,41,Scotland,Blue Collar,25-09-2020,93395.64
 400000515,Amanda Mackenzie,Female,26,Northern Ireland,White Collar,15-05-2020,93357.28
 100000173,Hannah Thomson,Female,26,England,White Collar,06-04-2020,93353.93
 100003097,Claire Ball,Female,24,England,White Collar,10-11-2020,93329.94
 200003768,Isaac McGrath,Male,56,Scotland,Blue Collar,16-12-2020,93164.29
 100003637,Fiona Manning,Female,31,England,White Collar,10-12-2020,92983.44
 300003776,Olivia Watson,Female,37,Wales,White Collar,16-12-2020,92953.31
-100001369,Zoe Murray,Female,49,England,White Collar,25-07-2020,92941.82
+100001369,Zoe Murray,Female,49,England,White Collar,25-07-2020,
 200002753,Ian Hunter,Male,64,Scotland,Blue Collar,23-10-2020,92921.99
 300003433,Sue Randall,Female,35,Wales,White Collar,28-11-2020,92788.65
 100003643,Luke Lawrence,Male,27,England,White Collar,10-12-2020,92610.22
-200000523,Adam Gill,Male,50,Scotland,Blue Collar,16-05-2020,92328.66
+,Adam Gill,Male,50,,,,
 100002706,Amanda Nash,Female,24,England,Other,20-10-2020,92201.51
-300004001,Gabrielle Duncan,Female,34,Wales,White Collar,29-12-2020,92083.79
+300004001,,Female,34,Wales,White Collar,29-12-2020,92083.79
 200002352,Owen Marshall,Male,37,Scotland,Blue Collar,28-09-2020,91884.77
-100001983,Alan Gibson,Male,26,England,White Collar,10-09-2020,91847.1
+100001983,Alan Gibson,Male,,England,,10-09-2020,91847.1
 200002354,Blake Nolan,Male,45,Scotland,Blue Collar,28-09-2020,91759.2
 100001145,Evan Hill,Male,32,England,Blue Collar,10-07-2020,91674.56
-100002368,Gavin Morgan,Male,37,England,White Collar,29-09-2020,91665.23
+100002368,,,,,White Collar,29-09-2020,91665.23
 300003090,Dorothy Wright,Female,50,Wales,Other,09-11-2020,91569.83
 100003734,Joseph Cameron,Male,43,England,White Collar,15-12-2020,91470.56
 100003759,Alison Hodges,Female,34,England,Blue Collar,16-12-2020,91324.46
@@ -266,8 +266,8 @@
 300001425,Leah Black,Female,28,Wales,White Collar,28-07-2020,91237.59
 300001480,Matt Rampling,Male,46,Wales,Blue Collar,01-08-2020,91216.49
 300000813,Diane Piper,Female,33,Wales,White Collar,05-06-2020,91205.06
-100002871,Sally Terry,Female,35,England,Blue Collar,28-10-2020,90913.77
-100000200,Karen Mackenzie,Female,47,England,White Collar,11-04-2020,90868.86
+100002871,,,,,,28-10-2020,90913.77
+100000200,,,,,,11-04-2020,90868.86
 100001688,Ryan Pullman,Male,31,England,White Collar,21-08-2020,90760.82
 200000352,Piers Harris,Male,51,Scotland,White Collar,03-05-2020,90573.15
 100002608,Steven Underwood,Male,38,England,White Collar,14-10-2020,90250.17
@@ -286,8 +286,8 @@
 100000969,Sophie Parsons,Female,21,England,White Collar,22-06-2020,89067.87
 100003805,Mary MacDonald,Female,36,England,Blue Collar,19-12-2020,88957.46
 100001279,Wanda Morrison,Female,35,England,Blue Collar,20-07-2020,88873.04
-100001017,Ella Hill,Female,33,England,White Collar,28-06-2020,88647.1
-400001845,Katherine Hamilton,Female,45,Northern Ireland,Other,29-08-2020,88579.21
+100001017,Ella Hill,Female,33,,,,88647.1
+400001845,Katherine Hamilton,Female,45,,,,88579.21
 100001469,Warren Walker,Male,39,England,Blue Collar,01-08-2020,88544.22
 100001097,Adam Vance,Male,36,England,Other,06-07-2020,88451.81
 300000719,Sebastian North,Male,32,Wales,White Collar,28-05-2020,88416.84
@@ -301,7 +301,7 @@
 100000927,Victoria Wilson,Female,37,England,White Collar,20-06-2020,87912.9
 300001614,Blake Blake,Male,29,Wales,Other,13-08-2020,87844.61
 200000263,Gabrielle Marshall,Female,41,Scotland,Other,17-04-2020,87758.52
-100002555,Dorothy Payne,Female,31,England,White Collar,11-10-2020,87684.33
+100002555,Dorothy Payne,,,,,,87684.33
 200002444,Christian Graham,Male,47,Scotland,Other,03-10-2020,87669.32
 400003847,Donna Lambert,Female,34,Northern Ireland,White Collar,20-12-2020,87664.15
 100003359,Amanda MacLeod,Female,22,England,Blue Collar,26-11-2020,87500.9
@@ -316,18 +316,18 @@
 200000712,Gordon Simpson,Male,54,Scotland,Blue Collar,28-05-2020,87050.11
 200002666,Joshua Simpson,Male,46,Scotland,Blue Collar,17-10-2020,86983.68
 300002074,Fiona Bower,Female,38,Wales,White Collar,15-09-2020,86892.69
-100001689,Jan McGrath,Female,32,England,White Collar,21-08-2020,86890.77
-100000314,Nicola Clarkson,Female,31,England,White Collar,26-04-2020,86849.17
+100001689,Jan McGrath,Female,,,,,86890.77
+100000314,Nicola Clarkson,Female,,,,,86849.17
 200001477,Sam Lawrence,Male,44,Scotland,Blue Collar,01-08-2020,86652.4
 200001890,Joan North,Female,62,Scotland,Other,02-09-2020,86610.74
 100001542,Dorothy White,Female,30,England,Other,08-08-2020,86591.86
 300003778,Lillian Russell,Female,45,Wales,Other,16-12-2020,86475.8
 100000973,Julia Avery,Female,25,England,Other,23-06-2020,86275.31
-100001594,Madeleine Walsh,Female,47,England,White Collar,12-08-2020,86222.34
-200003032,Jason Gill,Male,44,Scotland,Blue Collar,05-11-2020,86184.27
+100001594,Madeleine Walsh,Female,47,,,,86222.34
+200003032,,Male,44,Scotland,Blue Collar,05-11-2020,86184.27
 100001564,Samantha Bell,Female,24,England,White Collar,10-08-2020,86123
 200002099,Yvonne Terry,Female,47,Scotland,Other,17-09-2020,86073.84
-200000609,Leonard Brown,Male,58,Scotland,Other,20-05-2020,86041.55
+200000609,Leonard Brown,Male,58,Scotland,,,86041.55
 100002893,Max Ball,Male,45,England,Other,29-10-2020,85992.59
 200000507,Isaac Gill,Male,51,Scotland,Blue Collar,15-05-2020,85973.68
 100001191,Oliver Burgess,Male,23,England,White Collar,13-07-2020,85965.79
@@ -336,21 +336,21 @@
 100000972,Liam Forsyth,Male,32,England,White Collar,23-06-2020,85709.46
 100003372,Jan MacDonald,Female,42,England,White Collar,27-11-2020,85695.41
 100004003,Paul Avery,Male,46,England,White Collar,30-12-2020,85331.69
-100002783,Rebecca Underwood,Female,33,England,White Collar,25-10-2020,85325.26
+100002783,,Female,33,,,25-10-2020,85325.26
 100003731,Anna McDonald,Female,42,England,White Collar,15-12-2020,85207.93
 400002361,Peter Bailey,Male,41,Northern Ireland,White Collar,28-09-2020,85187.91
 200000105,Stephen Ross,Male,48,Scotland,White Collar,16-03-2020,85108.08
 100001566,Donna Hardacre,Female,40,England,White Collar,10-08-2020,85043.83
-300002275,Olivia Newman,Female,36,Wales,White Collar,24-09-2020,84942.22
-100000403,Ruth Simpson,Female,39,England,White Collar,07-05-2020,84925.13
+300002275,Olivia Newman,Female,36,Wales,White Collar,24-09-2020,
+100000403,Ruth Simpson,Female,39,England,White Collar,,84925.13
 300000686,Stephen Taylor,Male,34,Wales,Blue Collar,26-05-2020,84898.38
 100000817,Melanie Ogden,Female,34,England,White Collar,06-06-2020,84823.05
 100003268,Leah Lambert,Female,36,England,White Collar,20-11-2020,84693.18
 100001494,Amelia Glover,Female,31,England,White Collar,03-08-2020,84543.25
 400001072,Diane Short,Female,39,Northern Ireland,Other,03-07-2020,84480.9
 100001366,Adrian Johnston,Male,41,England,Blue Collar,25-07-2020,84302.39
-200002778,Sean Short,Male,43,Scotland,Blue Collar,24-10-2020,84220.99
-100002344,Stephanie Gray,Female,22,England,White Collar,28-09-2020,84123.93
+200002778,,Male,43,Scotland,Blue Collar,24-10-2020,84220.99
+100002344,Stephanie Gray,Female,22,England,,28-09-2020,84123.93
 100003048,Thomas Springer,Male,46,England,White Collar,07-11-2020,84080.85
 100001112,Sonia Clarkson,Female,33,England,White Collar,07-07-2020,84064.01
 200001137,Amanda Bailey,Female,57,Scotland,White Collar,09-07-2020,83992.09
@@ -364,7 +364,7 @@
 100003990,Rachel Johnston,Female,41,England,White Collar,29-12-2020,83616.58
 200002514,Warren Rutherford,Male,62,Scotland,Blue Collar,08-10-2020,83595.79
 400002153,Gordon Abraham,Male,30,Northern Ireland,Other,19-09-2020,83549.66
-100003785,Una Newman,Female,26,England,White Collar,17-12-2020,83372.36
+100003785,Una Newman,,26,England,White Collar,17-12-2020,83372.36
 300000466,Amy Davies,Female,39,Wales,White Collar,12-05-2020,83260.18
 100002611,Jason Ferguson,Male,38,England,Blue Collar,14-10-2020,83131.72
 100000743,Jan Underwood,Female,47,England,Other,30-05-2020,83088.67
