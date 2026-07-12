@@ -1,4 +1,5 @@
-﻿Customer ID,Customer Name,Gender,Age,Region,Job Classification,Date Joined,Balance
+﻿,Categorical Data,,,,,,Numerical Data
+Customer ID,Customer Name,Gender,Age,Region,Job Classification,Date Joined,Balance
 100001307,,Female,31,England,Job Classification,22-07-2020,183467.7
 100003450,Carl Fraser,Male,35,England,,30-11-2020,
 200002010,Connor North,Male,50,Scotland,Other,11-09-2020,172085.48
